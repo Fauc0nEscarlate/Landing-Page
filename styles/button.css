@@ -1,10 +1,24 @@
 #button{
+	all:unset;
+	font-family:Helvetica,Arial,sans-serif;
+	display:inline-block;
+	max-width:100%;white-space:nowrap;
+	overflow:hidden;
+	text-overflow:ellipsis;
+	font-size:15px;
+	border-radius:9px;
+	padding:0 25px;
+	font-weight:bold;
+	height:37.5px;
+	cursor:pointer;
+	line-height:37.5px;
+	text-align:center;
+	margin:0;
+	text-decoration:none;
 	background-color: rgb(4, 69, 175);
 	color: white;
-	border-radius: 10px;
-	padding:  16px;
 	border:  solid 1px rgb(4, 69, 175);
-	font-family:Helvetica,Arial,sans-serif
+
 }
 #button:hover {
 	color: rgb(4, 69, 175);
