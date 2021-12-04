@@ -1,0 +1,54 @@
+.continent {
+	margin-bottom: 28px;
+}
+
+.continent h2 {
+	color : floralwhite;
+	padding-left: 75px;
+	padding-top: 28px;
+	font-family: 'Architects Daughter', cursive;
+	font-size: 40px;
+}
+
+#europe {
+	background-image:linear-gradient(110deg, rgba(13,4,4,0.300233472295168060) 15%,rgba(224,173,173,0) 17%),url("../images/europe.jpg");
+	height: 45vh;
+	background-size: cover;
+	background-position: center;
+	box-shadow: 0px 0px 4px 1px;
+}
+#asie {
+	background-image:linear-gradient(110deg, rgba(13,4,4,0.300233472295168060) 12%,rgba(224,173,173,0) 14%),url("../images/asie.jpg");
+	height: 45vh;
+	background-size: cover;
+	background-position: center;
+	box-shadow: 0px 0px 4px 1px;
+}
+#amd {
+	background-image:linear-gradient(110deg, rgba(13,4,4,0.300233472295168060) 29%,rgba(224,173,173,0) 80%),url("../images/amd.jpg");
+	height: 45vh;
+	background-size: cover;
+	background-position:center;
+	box-shadow: 0px 0px 4px 1px;
+}
+#ams {
+	background-image:linear-gradient(110deg, rgba(13,4,4,0.300233472295168060) 28%,rgba(224,173,173,0) 50%),url("../images/ams.jpg");
+	height: 45vh;
+	background-size: cover;
+	background-position: center;
+	box-shadow: 0px 0px 4px 1px;
+}
+#afrique {
+	background-image:linear-gradient(110deg, rgba(13,4,4,0.300233472295168060) 16%,rgba(224,173,173,0) 40%),url("../images/afrique.jpg");
+	height: 45vh;
+	background-size: cover;
+	background-position: center;
+	box-shadow: 0px 0px 4px 1px;
+}
+#océanie {
+	background-image:linear-gradient(110deg, rgba(13,4,4,0.300233472295168060) 17%,rgba(224,173,173,0) 30%),url("../images/océanie.jpg");
+	height: 45vh;
+	background-size:  cover;
+	background-position: center;
+	box-shadow: 0px 0px 4px 1px;
+}

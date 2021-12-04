@@ -1,11 +1,12 @@
-.button{
+#button{
 	background-color: rgb(4, 69, 175);
 	color: white;
 	border-radius: 10px;
 	padding:  16px;
 	border:  solid 1px rgb(4, 69, 175);
+	font-family:Helvetica,Arial,sans-serif
 }
-.button:hover {
+#button:hover {
 	color: rgb(4, 69, 175);
 	background-color: white;
 	transition:  1s;
